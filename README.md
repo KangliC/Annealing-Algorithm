@@ -1,6 +1,6 @@
 #####################################
 
-Annealing-Algorithm in VLSI Application
+Annealing-Algorithm (C++) in VLSI Application
 
 Introduction:
 
@@ -17,8 +17,7 @@ within the overall constrains.
 
 #####################################
 
-C++ 
-Author: KANGLI CHU@SYRACUSE UNIVERSITY
+Author: KANGLI CHU @SYRACUSE UNIVERSITY
 Reference: EasyBMP lib
 
 This program gets input file(.txt) of modules info and overall constraints 
