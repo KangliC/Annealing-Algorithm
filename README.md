@@ -1,4 +1,6 @@
-#Annealing-Algorithm in VLSI Application
+#####################################
+
+Annealing-Algorithm in VLSI Application
 Introduction:
 There is one scene in the VLSI design that the designer is required to minimize the area cost for the chip. 
 Annealing-Algorithm can be applied for this purpose. The algorithm randomly permutes those modules of a 
@@ -10,7 +12,9 @@ The program will keep checking the overall ratio after every permutation and wil
 to a parameter when the ratio rans out of final constrains. That means current permutation has a greater 
 possibility to be denied. This scheme will finally ensure that the program can generate the final plot 
 within the overall constrains.
+
 #####################################
+
 C++ 
 Author: KANGLI CHU@SYRACUSE UNIVERSITY
 Reference: EasyBMP lib
