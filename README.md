@@ -1,7 +1,9 @@
 #####################################
 
 Annealing-Algorithm in VLSI Application
+
 Introduction:
+
 There is one scene in the VLSI design that the designer is required to minimize the area cost for the chip. 
 Annealing-Algorithm can be applied for this purpose. The algorithm randomly permutes those modules of a 
 chip and creates a trend that a smaller area cost can be accepted easier. Thus, the algorithm can finally
